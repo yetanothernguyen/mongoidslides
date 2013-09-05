@@ -1,0 +1,6 @@
+{ 
+  "name": "Mongoid", 
+  "templates": {
+      "default": "simple.tpl"
+    },
+  "sections": [ {"section":"slides"} ]}
